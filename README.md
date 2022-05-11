@@ -30,9 +30,10 @@ After that, you can get the theme from specific directories for supported termin
 ### [Alacritty](https://github.com/alacritty/alacritty) -
 Head over to `alacritty/` and copy `decay.json` to your alacritty config path:
 
-`cd decay-terms/alacritty`
-<br>
-`cp decay.yml ~/.config/alacritty/`
+```sh
+cd decay-terms/alacritty
+cp decay.yml ~/.config/alacritty/alacritty.yml
+```
 
 Enable decay theme adding: 
 `import: - ~/.config/alacritty/decay.yml` to your `alacritty.yml`
@@ -45,9 +46,10 @@ Enable decay theme adding:
 ## [Kitty](https://github.com/kovidgoyal/kitty) -
 Head over to `kitty/` and copy `decay.ini` to your kitty config path:
 
-`cd decay-terms/kitty`
-<br>
-`cp decay.ini ~/.config/kitty/`
+```sh
+cd decay-terms/kitty
+cp decay.ini ~/.config/kitty/
+```
 
 Enable decay theme adding:
 `include decay.ini` to your `kitty.conf`
@@ -60,9 +62,10 @@ Enable decay theme adding:
 ## [Tilix](https://gnunn1.github.io/tilix-web/) -
 Head over to `tilix/` and copy `decay.json` to your tilix schemes directory:
 
-`cd decay-terms/tilix`
-<br>
-`cp decay.json ~/.config/tilix/schemes`
+```sh
+cd decay-terms/tilix
+cp decay.json ~/.config/tilix/schemes
+```
 
 To enable decay theme in tilix, you need a few steps:
 
