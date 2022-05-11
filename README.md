@@ -9,9 +9,9 @@ The contrast between background and primary color helps avoiding any eye fatigue
 
 | Terminal | Ported |
 | ----------- | ----------- |
-| Alacritty | [YES](#../alacritty) |
-| Kitty | [YES](#../kitty) |
-| Tilix | [YES](#../tilix) |
+| Alacritty | [YES](#/alacritty) |
+| Kitty | [YES](#/kitty) |
+| Tilix | [YES](#/tilix) |
 | Terminator | Coming Soon |
 
 ### :heavy_exclamation_mark: Setup
@@ -35,7 +35,7 @@ Enable decay theme adding:
 `import: - ~/.config/alacritty/decay.yml` to your `alacritty.yml`
 
 ###### Showcase
-![decay-alacritty](./decay-alacritty.png)
+![decay-alacritty](./assets/decay-alacritty.png)
 
 >Happy ricing :)
 
@@ -49,7 +49,7 @@ Enable decay theme adding:
 `include decay.ini` to your `kitty.conf`
 
 ###### Showcase
-![decay-kitty](./decay-kitty.png)
+![decay-kitty](./assets/decay-kitty.png)
 
 >Happy ricing :)
 
@@ -65,6 +65,6 @@ To enable decay theme in tilix, you need a few steps:
 3. Select *Decay* from the color scheme drop-down menu
 
 ###### Showcase
-![decay-tilix](./decay-tilix.png)
+![decay-tilix](./assets/decay-tilix.png)
 
 >Happy ricing :)
