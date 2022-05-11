@@ -16,7 +16,7 @@ The contrast between background and primary color helps avoiding any eye fatigue
 | Tilix | [YES](#./tilix) |
 | Terminator | Coming Soon |
 
-### :heavy_exclamation_mark: Setup
+# :heavy_exclamation_mark: Setup
 
 ## IMPORTANT
 First clone the repo into your prefered directory using:
@@ -31,6 +31,7 @@ After that, you can get the theme from specific directories for supported termin
 Head over to `alacritty/` and copy `decay.json` to your alacritty config path:
 
 `cd decay-terms/alacritty`
+<br>
 `cp decay.yml ~/.config/alacritty/`
 
 Enable decay theme adding: 
@@ -45,6 +46,7 @@ Enable decay theme adding:
 Head over to `kitty/` and copy `decay.ini` to your kitty config path:
 
 `cd decay-terms/kitty`
+<br>
 `cp decay.ini ~/.config/kitty/`
 
 Enable decay theme adding:
@@ -59,6 +61,7 @@ Enable decay theme adding:
 Head over to `tilix/` and copy `decay.json` to your tilix schemes directory:
 
 `cd decay-terms/tilix`
+<br>
 `cp decay.json ~/.config/tilix/schemes`
 
 To enable decay theme in tilix, you need a few steps:
