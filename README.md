@@ -1,6 +1,8 @@
-# :diamond_shape_with_a_dot_inside: <h1 align="center">Decay For Terminal Emulators</h1>
+# :diamond_shape_with_a_dot_inside: <samp>Guide</samp>
+<h1 align="center">Decay For Terminal Emulators</h1>
 
-# Decay Theme <img src="./main.png" align="right" width="400px"/>
+# Decay Theme <img src="./assets/main.png" align="right" width="400px"/>
+## INFORMATION
 Uses shades of green along with a dark-toned background for better contrast!
 
 The contrast between background and primary color helps avoiding any eye fatigue when spending a lot of time in front of the computer.
@@ -9,9 +11,9 @@ The contrast between background and primary color helps avoiding any eye fatigue
 
 | Terminal | Ported |
 | ----------- | ----------- |
-| Alacritty | [YES](#/alacritty) |
-| Kitty | [YES](#/kitty) |
-| Tilix | [YES](#/tilix) |
+| Alacritty | [YES](#./alacritty) |
+| Kitty | [YES](#./kitty) |
+| Tilix | [YES](#./tilix) |
 | Terminator | Coming Soon |
 
 ### :heavy_exclamation_mark: Setup
