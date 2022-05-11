@@ -11,10 +11,10 @@ The contrast between background and primary color helps avoiding any eye fatigue
 
 | Terminal | Ported |
 | ----------- | ----------- |
-| Alacritty | [YES](#./alacritty) |
-| Kitty | [YES](#./kitty) |
-| Tilix | [YES](#./tilix) |
-| Terminator | Coming Soon |
+| Alacritty | [YES](https://github.com/decaycs/decay-terms/tree/main/alacritty) |
+| Kitty | [YES](https://github.com/decaycs/decay-terms/tree/main/kitty) |
+| Tilix | [YES](https://github.com/decaycs/decay-terms/tree/main/tilix) |
+| Terminator | [YES](https://github.com/decaycs/decay-terms/tree/terminator) |
 
 # :heavy_exclamation_mark: Setup
 
@@ -35,8 +35,7 @@ cd decay-terms/alacritty
 cp decay.yml ~/.config/alacritty/alacritty.yml
 ```
 
-Enable decay theme adding: 
-`import: - ~/.config/alacritty/decay.yml` to your `alacritty.yml`
+Enable `Decay theme` adding `import: - ~/.config/alacritty/decay.yml` to your `alacritty.yml`
 
 ###### Showcase
 ![decay-alacritty](./assets/decay-alacritty.png)
@@ -51,8 +50,7 @@ cd decay-terms/kitty
 cp decay.ini ~/.config/kitty/
 ```
 
-Enable decay theme adding:
-`include decay.ini` to your `kitty.conf`
+Enable `Decay theme` adding `include decay.ini` to your `kitty.conf`
 
 ###### Showcase
 ![decay-kitty](./assets/decay-kitty.png)
@@ -67,7 +65,7 @@ cd decay-terms/tilix
 cp decay.json ~/.config/tilix/schemes
 ```
 
-To enable decay theme in tilix, you need a few steps:
+To enable `Decay theme` in tilix, you need to follow a few steps:
 
 1. Open your profile preferences (tilix settings)
 2. Switch to `Color` tab
@@ -75,5 +73,22 @@ To enable decay theme in tilix, you need a few steps:
 
 ###### Showcase
 ![decay-tilix](./assets/decay-tilix.png)
+
+>Happy ricing :)
+
+## [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/) -
+To get **Decay Theme** for *Terminator* terminal, you need to dot some I's and cross some T's :|
+
+You need to copy the content of `terminator/decay` into your `~/.config/terminator/config` file under the profiles section.
+
+After you've done that your *Terminator config* file should look something like this:
+![Terminator Guide](./assets/terminator_guide.png)
+
+To enable `Decay theme` in terminator you need to right click inside terminal and select the `Decay` profile from the drop-down menu.
+
+To make `Decay theme` default, check out [EliverLara Terminator themes](https://github.com/EliverLara/terminator-themes#setting-a-default)
+
+###### Showcase
+![decay-terminator](./assets/decay-terminator.png)
 
 >Happy ricing :)
