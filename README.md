@@ -105,11 +105,12 @@ xrdb merge ./st/xresources
 
 Another way is to edit your `~/.Xresources` file to match the colors of **Decay**
 To do so, just copy the content of `./st/xresources` into your `~/.Xresources` file, but make sure to edit the correct section, such as *colors section*
->Note\*: If you use **.Xresources** for your rice theme, and your whole rice will change to **Decay Theme** colors. Be Aware ! 
-
 
 After you've done that your *.Xresources* file should look something like this:
-<img src="./assets/Xresources_guide.png" alt=".Xresources config to port decay to st" height="400px"/>
+<br>
+<img src="./assets/Xresources_guide.png" alt=".Xresources config to port decay to st" height="400px" align="center"/>
+<br>
+>Note\*: If you use **.Xresources** for your rice theme, and your whole rice will change to **Decay Theme** colors. Be Aware ! 
 
 ###### Showcase
 ![decay-st](./assets/decay-st.png)
