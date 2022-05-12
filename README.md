@@ -92,3 +92,26 @@ To make `Decay theme` default, check out [EliverLara Terminator themes](https://
 ![decay-terminator](./assets/decay-terminator.png)
 
 >Happy ricing :)
+
+## [st - Suckless Terminal](https://st.suckless.org/) -
+Getting **Decay Theme** for *st* terminal can be a little bit tricky
+
+There are a few approaches to make it work, showing a few for now, but will add extra soon :)
+
+The easiest way is using `xrdb merge` and `path/to/xresources`, in our case you can use:
+```
+xrdb merge ./st/xresources
+```
+
+Another way is to edit your `~/.Xresources` file to match the colors of **Decay**
+To do so, just copy the content of `./st/xresources` into your `~/.Xresources` file, but make sure to edit the correct section, such as *colors section*
+>Note\*: If you use **.Xresources** for your rice theme, and your whole rice will change to **Decay Theme** colors. Be Aware ! 
+
+
+After you've done that your *.Xresources* file should look something like this:
+<img src="./assets/Xresources_guide.png" alt=".Xresources config to port decay to st" height="400px"/>
+
+###### Showcase
+![decay-st](./assets/decay-st.png)
+
+>Happy ricing :)
