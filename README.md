@@ -95,7 +95,7 @@ To make `Decay theme` default, check out [EliverLara Terminator themes](https://
 >Happy ricing :)
 
 ## [st - Suckless Terminal](https://st.suckless.org/) -
-Getting **Decay Theme** for *st* terminal can be a little bit tricky
+Getting **Decay Theme** for *st* terminal can be a little bit tricky :|
 
 There are a few approaches to make it work, showing a few for now, but will add extra soon :)
 
@@ -105,6 +105,7 @@ xrdb merge ./st/xresources
 ```
 
 Another way is to edit your `~/.Xresources` file to match the colors of **Decay**
+
 To do so, just copy the content of `./st/xresources` into your `~/.Xresources` file, but make sure to edit the correct section, such as *colors section*
 
 >Note\*: If you use **.Xresources** for your rice colors, then your whole rice will change to **Decay Theme** colors. Be Aware ! 
