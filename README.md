@@ -110,7 +110,7 @@ After you've done that your *.Xresources* file should look something like this:
 <br>
 <img src="./assets/Xresources_guide.png" alt=".Xresources config to port decay to st" height="400px" align="center"/>
 <br>
->Note\*: If you use **.Xresources** for your rice theme, and your whole rice will change to **Decay Theme** colors. Be Aware ! 
+>Note\*: If you use **.Xresources** for your rice colors, then your whole rice will change to **Decay Theme** colors. Be Aware ! 
 
 ###### Showcase
 ![decay-st](./assets/decay-st.png)
