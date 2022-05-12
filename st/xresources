@@ -5,7 +5,7 @@ Xft.hintstyle:	hintslight
 Xft.rgba:	rgb
 Xft.lcdfilter:	lcddefault
 
-st.font:         Iosevka Extended:style:medium:pixelsize=22
+st.font:         Iosevka Extended:style:medium:pixelsize=16
 
 ! window padding
 st.borderpx: 20
