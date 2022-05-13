@@ -117,7 +117,7 @@ To do so, just copy the content of `./st/xresources` into your `~/.Xresources` f
 
 > Happy ricing!
 
-## [tym](https://github.com/endaaman/tym)
+## [tym](https://github.com/endaaman/tym) -
 
 To get working **Decay Theme** in *tym* terminal is simple, just head over `tym/` and copy `theme.lua` to your tym terminal config path:
 
