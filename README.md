@@ -17,6 +17,7 @@ The contrast between background and primary color helps avoiding any eye fatigue
 | Terminator | [YES](https://github.com/decaycs/decay-terms/tree/terminator) |
 | st - Suckless | [YES](https://github.com/decaycs/decay-terms/tree/st) |
 | tym | [YES](https://github.com/decaycs/decay-terms/tree/tym) |
+| Xresources | [YES](https://github.com/decaycs/decay-terms/tree/xresources) |
 | wezterm | Working on that :/ |
 
 # :heavy_exclamation_mark: Setup
@@ -139,3 +140,11 @@ cp -r decay-terms/tym/config.lua ~/.config/tym
 ![decay-tym](./assets/decay-tym.png)
 
 > Happy ricing :)
+
+## [Xresources](https://wiki.debian.org/Xresources) -
+Head over to your home directory (`xresources`) and copy `.Xresources` to your home directory:
+
+```sh
+cd decay-terms/xresources
+cp .Xresources ~
+```
