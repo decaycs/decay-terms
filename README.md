@@ -15,7 +15,9 @@ The contrast between background and primary color helps avoiding any eye fatigue
 | Kitty | [YES](https://github.com/decaycs/decay-terms/tree/main/kitty) |
 | Tilix | [YES](https://github.com/decaycs/decay-terms/tree/main/tilix) |
 | Terminator | [YES](https://github.com/decaycs/decay-terms/tree/terminator) |
-| st - Suckless | [YES](https://github.com/decacs/decay-terms/tree/st) |
+| st - Suckless | [YES](https://github.com/decaycs/decay-terms/tree/st) |
+| tym | [YES](https://github.com/decaycs/decay-terms/tree/tym) |
+| wezterm | Working on that :/ |
 
 # :heavy_exclamation_mark: Setup
 
@@ -113,4 +115,25 @@ To do so, just copy the content of `./st/xresources` into your `~/.Xresources` f
 ###### Showcase
 ![decay-st](./assets/decay-st.png)
 
->Happy ricing :)
+> Happy ricing!
+
+## [tym](https://github.com/endaaman/tym)
+
+To get working **Decay Theme** in *tym* terminal is simple, just head over `tym/` and copy `theme.lua` to your tym terminal config path:
+
+> By default tym terminal config path is `~/.config/tym`
+
+```sh
+cp -r decay-terms/tym/theme.lua ~/.config/tym
+```
+
+If you want a starter template for `config.lua` you can copy the `config.lua` file too to your tym terminal config:
+
+```sh
+cp -r decay-terms/tym/config.lua ~/.config/tym
+```
+
+###### Showcase
+![decay-tym](./assets/decay-tym.png)
+
+> Happy ricing :)
