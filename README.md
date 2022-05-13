@@ -106,6 +106,8 @@ The easiest way is using `xrdb merge` and `path/to/xresources`, in our case you 
 xrdb merge ./st/xresources
 ```
 
+> This only works using the xresources st patch, for example, we're using the [siduck's st build](https://github.com/siduck/st) that really works nice with this! 
+
 Another way is to edit your `~/.Xresources` file to match the colors of **Decay**
 
 To do so, just copy the content of `./st/xresources` into your `~/.Xresources` file, but make sure to edit the correct section, such as *colors section*
