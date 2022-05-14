@@ -18,7 +18,7 @@ The contrast between background and primary color helps avoiding any eye fatigue
 | st - Suckless | [YES](https://github.com/decaycs/decay-terms/tree/st) |
 | tym | [YES](https://github.com/decaycs/decay-terms/tree/tym) |
 | Xresources | [YES](https://github.com/decaycs/decay-terms/tree/xresources) |
-| wezterm | Working on that :/ |
+| WezTerm | [YES](https://github.com/decacs/decay-terms/tree/wezterm) |
 
 # :heavy_exclamation_mark: Setup
 
@@ -97,7 +97,7 @@ To make `Decay theme` default, check out [EliverLara Terminator themes](https://
 
 >Happy ricing :)
 
-## [st - Suckless Terminal](https://st.suckless.org/) -
+## [Suckless - st](https://st.suckless.org/) -
 Getting **Decay Theme** for *st* terminal can be a little bit tricky :|
 
 There are a few approaches to make it work, showing a few for now, but will add extra soon :)
@@ -122,7 +122,7 @@ To do so, just copy the content of `./st/xresources` into your `~/.Xresources` f
 
 ## [tym](https://github.com/endaaman/tym) -
 
-To get working **Decay Theme** in *tym* terminal is simple, just head over `tym/` and copy `theme.lua` to your tym terminal config path:
+To get **Decay Theme** work in *tym* terminal is quite simple, just head over to `tym/` and copy `theme.lua` to your tym terminal config path:
 
 > By default tym terminal config path is `~/.config/tym`
 
@@ -130,11 +130,13 @@ To get working **Decay Theme** in *tym* terminal is simple, just head over `tym/
 cp -r decay-terms/tym/theme.lua ~/.config/tym
 ```
 
-If you want a starter template for `config.lua` you can copy the `config.lua` file too to your tym terminal config:
+If you just installed tym and don't have any previous *configurations* for tym, you can copy the `config.lua`:
 
 ```sh
 cp -r decay-terms/tym/config.lua ~/.config/tym
 ```
+
+or if you do have custom *configurations*, then you just add the content of `tym/config.lua` to your `~/.config/tym/config.lua` file.
 
 ###### Showcase
 ![decay-tym](./assets/decay-tym.png)
@@ -142,9 +144,28 @@ cp -r decay-terms/tym/config.lua ~/.config/tym
 > Happy ricing :)
 
 ## [Xresources](https://wiki.debian.org/Xresources) -
-Head over to your home directory (`xresources`) and copy `.Xresources` to your home directory:
+To get the **Decay Theme** in your personal `Xresources` is easy.
+Head over the folder `xresources` of the repo, and then copy the file `.Xresources` to your home.
 
 ```sh
 cd decay-terms/xresources
 cp .Xresources ~
 ```
+
+Now merge the info in your system using `xrdb`:
+
+```sh
+xrdb merge ~/.Xresources
+```
+
+> Is recommended to put this in your autostart, but not in all cases
+
+## [WezTerm](https://wezfurlong.org/wezterm/index.html) -
+All you need to do is, once again use your favorite keyboard keys, `ctrl+c` and `ctrl+v` :)
+
+Head over to `wezterm/` and copy the content of `wezterm.lua` under the `return section` into your *wezterm* config file.
+
+###### Showcase
+![decay-wezterm](./assets/decay-wezterm.png)
+
+> Happy ricing :)
