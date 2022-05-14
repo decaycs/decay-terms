@@ -24,7 +24,6 @@
 *.foreground:   decay_fg
 *.background:   decay_bg
 *.cursorColor:  decay_cursor
-*fading: 35
 
 *.color0: decay_black
 *.color1: decay_red
