@@ -143,7 +143,17 @@ or if you do have custom *configurations*, then you just add the content of `tym
 
 > Happy ricing :)
 
-## [Xresources](https://wiki.debian.org/Xresources) -
+## [WezTerm](https://wezfurlong.org/wezterm/index.html) -
+All you need to do is, once again use your favorite keyboard keys, `ctrl+c` and `ctrl+v` :)
+
+Head over to `wezterm/` and copy the content of `wezterm.lua` under the `return section` into your *wezterm* config file.
+
+###### Showcase
+![decay-wezterm](./assets/decay-wezterm.png)
+
+> Happy ricing :)
+
+## [Xresources](https://wiki.archlinux.org/title/x_resources) -
 To get the **Decay Theme** in your personal `Xresources` is easy.
 Head over the folder `xresources` of the repo, and then copy the file `.Xresources` to your home.
 
@@ -159,13 +169,3 @@ xrdb merge ~/.Xresources
 ```
 
 > Is recommended to put this in your autostart, but not in all cases
-
-## [WezTerm](https://wezfurlong.org/wezterm/index.html) -
-All you need to do is, once again use your favorite keyboard keys, `ctrl+c` and `ctrl+v` :)
-
-Head over to `wezterm/` and copy the content of `wezterm.lua` under the `return section` into your *wezterm* config file.
-
-###### Showcase
-![decay-wezterm](./assets/decay-wezterm.png)
-
-> Happy ricing :)
