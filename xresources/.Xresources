@@ -1,8 +1,8 @@
 !-- decay palette --!
-#define decay_darker_bg   #0e1217
-#define decay_bg          #101419
-#define decay_contrast_bg #15191e
-#define decay_lighter_bg  #1a1e23
+#define decay_darker_bg   #13171b
+#define decay_bg          #171B20
+#define decay_contrast_bg #1a1e24
+#define decay_lighter_bg  #21262e
 #define decay_fg          #b6beca
 #define decay_cursor      #b6beca
 
