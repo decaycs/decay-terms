@@ -14,11 +14,11 @@ The contrast between background and primary color helps avoiding any eye fatigue
 | Alacritty | [YES](https://github.com/decaycs/decay-terms/tree/main/alacritty) |
 | Kitty | [YES](https://github.com/decaycs/decay-terms/tree/main/kitty) |
 | Tilix | [YES](https://github.com/decaycs/decay-terms/tree/main/tilix) |
-| Terminator | [YES](https://github.com/decaycs/decay-terms/tree/terminator) |
-| st - Suckless | [YES](https://github.com/decaycs/decay-terms/tree/st) |
-| tym | [YES](https://github.com/decaycs/decay-terms/tree/tym) |
-| Xresources | [YES](https://github.com/decaycs/decay-terms/tree/xresources) |
-| WezTerm | [YES](https://github.com/decacs/decay-terms/tree/wezterm) |
+| Terminator | [YES](https://github.com/decaycs/decay-terms/tree/main/terminator) |
+| st - Suckless | [YES](https://github.com/decaycs/decay-terms/tree/main/st) |
+| tym | [YES](https://github.com/decaycs/decay-terms/tree/main/tym) |
+| Xresources | [YES](https://github.com/decaycs/decay-terms/tree/main/xresources) |
+| WezTerm | [YES](https://github.com/decacs/decay-terms/tree/main/wezterm) |
 
 # :heavy_exclamation_mark: Setup
 
