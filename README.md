@@ -19,6 +19,7 @@ The contrast between background and primary color helps avoiding any eye fatigue
 | tym | [YES](https://github.com/decaycs/decay-terms/tree/main/tym) |
 | WezTerm | [YES](https://github.com/decacs/decay-terms/tree/main/wezterm) |
 | Xresources | [YES](https://github.com/decaycs/decay-terms/tree/main/xresources) |
+| Termux | [YES](https://github.com/decaycs/decay-terms/tree/main/termux) |
 
 # :heavy_exclamation_mark: Setup
 
@@ -107,13 +108,13 @@ The easiest way is using `xrdb merge` and `path/to/xresources`, in our case you 
 xrdb merge ./st/xresources
 ```
 
-> This only works using the xresources st patch, for example, we're using the [siduck's st build](https://github.com/siduck/st) that really works nice with this! 
+> This only works using the xresources st patch, for example, we're using the [siduck's st build](https://github.com/siduck/st) that really works nice with this!
 
 Another way is to edit your `~/.Xresources` file to match the colors of **Decay**
 
 To do so, just copy the content of `./st/xresources` into your `~/.Xresources` file, but make sure to edit the correct section, such as *colors section*
 
->Note\*: If you use **.Xresources** for your rice colors, then your whole rice will change to **Decay Theme** colors. Be Aware ! 
+>Note\*: If you use **.Xresources** for your rice colors, then your whole rice will change to **Decay Theme** colors. Be Aware !
 
 ###### Showcase
 ![decay-st](./assets/decay-st.png)
