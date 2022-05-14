@@ -96,7 +96,7 @@ To make `Decay theme` default, check out [EliverLara Terminator themes](https://
 
 >Happy ricing :)
 
-## [st - Suckless Terminal](https://st.suckless.org/) -
+## [Suckless - st](https://st.suckless.org/) -
 Getting **Decay Theme** for *st* terminal can be a little bit tricky :|
 
 There are a few approaches to make it work, showing a few for now, but will add extra soon :)
@@ -121,7 +121,7 @@ To do so, just copy the content of `./st/xresources` into your `~/.Xresources` f
 
 ## [tym](https://github.com/endaaman/tym) -
 
-To get working **Decay Theme** in *tym* terminal is simple, just head over `tym/` and copy `theme.lua` to your tym terminal config path:
+To get **Decay Theme** work in *tym* terminal is quite simple, just head over to `tym/` and copy `theme.lua` to your tym terminal config path:
 
 > By default tym terminal config path is `~/.config/tym`
 
@@ -129,11 +129,13 @@ To get working **Decay Theme** in *tym* terminal is simple, just head over `tym/
 cp -r decay-terms/tym/theme.lua ~/.config/tym
 ```
 
-If you want a starter template for `config.lua` you can copy the `config.lua` file too to your tym terminal config:
+If you just installed tym and don't have any previous *configurations* for tym, you can copy the `config.lua`:
 
 ```sh
 cp -r decay-terms/tym/config.lua ~/.config/tym
 ```
+
+or if you do have custom *configurations*, then you just add the content of `tym/config.lua` to your `~/.config/tym/config.lua` file.
 
 ###### Showcase
 ![decay-tym](./assets/decay-tym.png)
