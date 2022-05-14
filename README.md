@@ -141,3 +141,11 @@ or if you do have custom *configurations*, then you just add the content of `tym
 ![decay-tym](./assets/decay-tym.png)
 
 > Happy ricing :)
+
+## [WezTerm](https://wezfurlong.org/wezterm/index.html) -
+All you need to do is, once again use your favorite keyboard keys, `ctrl+c` and `ctrl+v` :)
+
+Head over to `wezterm/` and copy the content of `wezterm.lua` under the `return section` into your *wezterm* config file.
+
+###### Showcase
+![decay-wezterm](./assets/decay-wezterm.png)
