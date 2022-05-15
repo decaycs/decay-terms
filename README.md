@@ -12,11 +12,12 @@ The contrast between background and primary color helps avoiding any eye fatigue
 | Terminal | Ported |
 | ----------- | ----------- |
 | Alacritty | [YES](https://github.com/decaycs/decay-terms/tree/main/alacritty) |
+| Foot | [YES](https://github.com/decaycs/decay-terms/tree/main/foot) |
 | Kitty | [YES](https://github.com/decaycs/decay-terms/tree/main/kitty) |
 | Tilix | [YES](https://github.com/decaycs/decay-terms/tree/main/tilix) |
 | Terminator | [YES](https://github.com/decaycs/decay-terms/tree/main/terminator) |
-| st - Suckless | [YES](https://github.com/decaycs/decay-terms/tree/main/st) |
 | tym | [YES](https://github.com/decaycs/decay-terms/tree/main/tym) |
+| st - Suckless | [YES](https://github.com/decaycs/decay-terms/tree/main/st) |
 | WezTerm | [YES](https://github.com/decacs/decay-terms/tree/main/wezterm) |
 | Xresources | [YES](https://github.com/decaycs/decay-terms/tree/main/xresources) |
 
