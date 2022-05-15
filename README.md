@@ -47,6 +47,15 @@ Enable `Decay theme` adding `import: - ~/.config/alacritty/decay.yml` to your `a
 
 >Happy ricing :)
 
+## [Foot](https://codeberg.org/dnkl/foot) -
+To get the **Decay Theme** for the *Foot* terminal, you need to copy the contents of [this file](https://github.com/decaycs/decay-terms/tree/main/foot/decay.ini) and paste it at the bottom of your foot.ini
+
+**PS: Make sure to remove any existing colors segment from your foot.ini**
+
+* Screenshots and better documenutation coming soon
+
+
+
 ## [Kitty](https://github.com/kovidgoyal/kitty) -
 Head over to `kitty/` and copy `decay.ini` to your kitty config path:
 
