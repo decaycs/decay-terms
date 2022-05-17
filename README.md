@@ -36,7 +36,7 @@ Head over to `alacritty/` and copy `decay.yml` to your alacritty config path:
 
 ```sh
 cd decay-terms/alacritty
-cp decay.yml ~/.config/alacritty/alacritty.yml
+cp decay.yml ~/.config/alacritty/
 ```
 
 Enable `Decay theme` adding `import: - ~/.config/alacritty/decay.yml` to your `alacritty.yml`
