@@ -32,7 +32,7 @@ After that, you can get the theme from specific directories for supported termin
 [See Below](#alacritty)
 
 ### [Alacritty](https://github.com/alacritty/alacritty) -
-Head over to `alacritty/` and copy `decay.json` to your alacritty config path:
+Head over to `alacritty/` and copy `decay.yml` to your alacritty config path:
 
 ```sh
 cd decay-terms/alacritty
