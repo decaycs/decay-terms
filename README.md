@@ -39,6 +39,8 @@ cd decay-terms/alacritty
 cp decay.yml ~/.config/alacritty/
 ```
 
+> See the folder `alacritty` to get more versions of decay like `dark-decay` and `light-decay`.
+
 Enable `Decay theme` adding `import: - ~/.config/alacritty/decay.yml` to your `alacritty.yml`
 
 ###### Showcase
@@ -54,6 +56,8 @@ cd decay-terms/kitty
 cp decay.ini ~/.config/kitty/
 ```
 
+> See the folder `kitty` to get more versions of decay like `dark-decay` and `light-decay`.
+
 Enable `Decay theme` adding `include decay.ini` to your `kitty.conf`
 
 ###### Showcase
@@ -68,6 +72,8 @@ Head over to `tilix/` and copy `decay.json` to your tilix schemes directory:
 cd decay-terms/tilix
 cp decay.json ~/.config/tilix/schemes
 ```
+
+> See the folder `tilix/schemes` to get more versions of decay like `dark-decay` and `light-decay`.
 
 To enable `Decay theme` in tilix, you need to follow a few steps:
 
@@ -91,6 +97,8 @@ After you've done that your *Terminator config* file should look something like 
 To enable `Decay theme` in terminator you need to right click inside terminal and select the `Decay` profile from the drop-down menu.
 
 To make `Decay theme` default, check out [EliverLara Terminator themes](https://github.com/EliverLara/terminator-themes#setting-a-default)
+
+> See the folder `terminator` to get more versions of decay like `dark-decay` and `light-decay`.
 
 ###### Showcase
 ![decay-terminator](./assets/decay-terminator.png)
@@ -138,6 +146,8 @@ cp -r decay-terms/tym/config.lua ~/.config/tym
 
 or if you do have custom *configurations*, then you just add the content of `tym/config.lua` to your `~/.config/tym/config.lua` file.
 
+> See the folder `tym` to get more versions of decay like `dark-decay` and `light-decay`.
+
 ###### Showcase
 ![decay-tym](./assets/decay-tym.png)
 
@@ -147,6 +157,8 @@ or if you do have custom *configurations*, then you just add the content of `tym
 All you need to do is, once again use your favorite keyboard keys, `ctrl+c` and `ctrl+v` :)
 
 Head over to `wezterm/` and copy the content of `wezterm.lua` under the `return section` into your *wezterm* config file.
+
+> See the folder `wezterm` to get more versions of decay like `dark-decay` and `light-decay`.
 
 ###### Showcase
 ![decay-wezterm](./assets/decay-wezterm.png)
@@ -167,5 +179,7 @@ Now merge the info in your system using `xrdb`:
 ```sh
 xrdb merge ~/.Xresources
 ```
+
+> See the folder `xresources` to get more versions of decay like `dark-decay` and `light-decay`.
 
 > Is recommended to put this in your autostart, but not in all cases
