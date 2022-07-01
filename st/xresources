@@ -14,7 +14,7 @@ st.borderpx: 20
 st.alpha: 1.0
 
 *background: #171a1f
-*foreground: #a9b1d6
+*foreground: #b6beca
 
 ! Black + DarkGrey
 *color0:  #1c252c

@@ -45,7 +45,7 @@ return {
     
     -- Theme Colors (Decay)
     foreground = "#b6beca",
-    background = "#171a1f",
+    background = "#101419",
     cursor_bg = "#dee1e6",
     cursor_border = "#fafdff",
     cursor_fg = "#22262e",
