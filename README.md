@@ -12,11 +12,12 @@ The contrast between background and primary color helps avoiding any eye fatigue
 | Terminal | Ported |
 | ----------- | ----------- |
 | Alacritty | [YES](https://github.com/decaycs/decay-terms/tree/main/alacritty) |
+| Foot | [YES](https://github.com/decaycs/decay-terms/tree/main/foot) |
 | Kitty | [YES](https://github.com/decaycs/decay-terms/tree/main/kitty) |
 | Tilix | [YES](https://github.com/decaycs/decay-terms/tree/main/tilix) |
 | Terminator | [YES](https://github.com/decaycs/decay-terms/tree/main/terminator) |
-| st - Suckless | [YES](https://github.com/decaycs/decay-terms/tree/main/st) |
 | tym | [YES](https://github.com/decaycs/decay-terms/tree/main/tym) |
+| st - Suckless | [YES](https://github.com/decaycs/decay-terms/tree/main/st) |
 | WezTerm | [YES](https://github.com/decacs/decay-terms/tree/main/wezterm) |
 | Xresources | [YES](https://github.com/decaycs/decay-terms/tree/main/xresources) |
 
@@ -47,6 +48,15 @@ Enable `Decay theme` adding `import: - ~/.config/alacritty/decay.yml` to your `a
 ![decay-alacritty](./assets/decay-alacritty.png)
 
 >Happy ricing :)
+
+## [Foot](https://codeberg.org/dnkl/foot) -
+To get the **Decay Theme** for the *Foot* terminal, you need to copy the contents of [this file](https://github.com/decaycs/decay-terms/tree/main/foot/decay.ini) and paste it at the bottom of your foot.ini
+
+**PS: Make sure to remove any existing colors segment from your foot.ini**
+
+* Screenshots and better documenutation coming soon
+
+
 
 ## [Kitty](https://github.com/kovidgoyal/kitty) -
 Head over to `kitty/` and copy `decay.ini` to your kitty config path:
