@@ -19,6 +19,7 @@ The contrast between background and primary color helps avoiding any eye fatigue
 | tym | [YES](https://github.com/decaycs/decay-terms/tree/main/tym) |
 | WezTerm | [YES](https://github.com/decacs/decay-terms/tree/main/wezterm) |
 | Xresources | [YES](https://github.com/decaycs/decay-terms/tree/main/xresources) |
+| Windows Terminal | [YES](https://github.com/decaycs/decay-terms/tree/main/windows-terminal) |
 
 # :heavy_exclamation_mark: Setup
 
@@ -183,3 +184,17 @@ xrdb merge ~/.Xresources
 > See the folder `xresources` to get more versions of decay like `dark-decay` and `light-decay`.
 
 > Is recommended to put this in your autostart, but not in all cases
+
+## [Windows-Terminal](https://github.com/Microsoft/Terminal) -
+Head over to the settings page, and click `Open JSON file`.
+Copy the content of your favourite theme to the `"schemes"`
+part of the file.
+
+> See the folder `windows-terminal` to get more versions of decay like `dark-decay` and `light-decay`.
+
+Enable `Decay` by selecting it in the `Appearence` section of your profile in the settings GUI.
+
+###### Showcase
+![decay-kitty](./assets/decay-wt.png)
+
+>Happy ricing :)
