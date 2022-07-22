@@ -3,7 +3,7 @@
 
 colors:
   primary:
-    background: '#dee1e6 '
+    background: '#dee1e6'
     foreground: '#101419'
   cursor:
     text:   CellForeground
