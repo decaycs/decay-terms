@@ -8,7 +8,7 @@ colors:
   cursor:
     text:   CellForeground
     cursor: '#101419'
-  bright:
+  normal:
     black:   '#c5c8cd'
     red:     '#bd3c42'
     green:   '#69b373'
@@ -17,7 +17,7 @@ colors:
     magenta: '#a367cb'
     cyan:    '#519bc6'
     white:   '#101419'
-  normal:
+  bright:
     black:   '#989ba0'
     red:     '#c24147'
     green:   '#6eb878'
