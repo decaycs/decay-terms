@@ -1,0 +1,25 @@
+{
+    "name": "Decay",
+    "comment": "Ported for Terminix Colour Scheme",
+    "use-theme-colors": false,
+    "foreground-color": "#a5b6cf",
+    "background-color": "#0d0f18",
+    "palette": [
+        "#151720",
+        "#dd6777",
+        "#90ceaa",
+        "#ecd3a0",
+        "#86aaec",
+        "#c296eb",
+        "#93cee9",
+        "#cbced3",
+        "#1c1e27",
+        "#e26c7c",
+        "#95d3af",
+        "#f1d8a5",
+        "#8baff1",
+        "#c79bf0",
+        "#98d3ee",
+        "#d0d3d8"
+    ]
+}
