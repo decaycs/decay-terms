@@ -41,7 +41,14 @@ cp decay.yml ~/.config/alacritty/
 
 > See the folder `alacritty` to get more versions of decay like `decayce`, `dark-decay` or `light-decay`.
 
-Enable `Decay theme` adding `import: - ~/.config/alacritty/decay.yml` to your `alacritty.yml`
+Enable decay adding
+
+```yml
+import:
+  - ~/.config/alacritty/decay.yml
+```
+
+to your `alacritty.yml`
 
 ###### Showcase
 ![decay-alacritty](./assets/decay-alacritty.png)
