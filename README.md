@@ -17,7 +17,7 @@ The contrast between background and primary color helps avoiding any eye fatigue
 | Terminator | [YES](https://github.com/decaycs/decay-terms/tree/main/terminator) |
 | st - Suckless | [YES](https://github.com/decaycs/decay-terms/tree/main/st) |
 | tym | [YES](https://github.com/decaycs/decay-terms/tree/main/tym) |
-| WezTerm | [YES](https://github.com/decacs/decay-terms/tree/main/wezterm) |
+| WezTerm | [YES](https://github.com/decaycs/decay-terms/tree/main/wezterm) |
 | Xresources | [YES](https://github.com/decaycs/decay-terms/tree/main/xresources) |
 
 # :heavy_exclamation_mark: Setup
