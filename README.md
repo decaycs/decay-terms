@@ -119,8 +119,10 @@ There are a few approaches to make it work, showing a few for now, but will add 
 
 The easiest way is using `xrdb merge` and `path/to/xresources`, in our case you can use:
 ```
-xrdb merge ./st/xresources
+xrdb merge ./st/decay.xresources
 ```
+
+You can replace `decay` with the appropriate palette that you want. (e.g. `./st/decayce.xresources`)
 
 > This only works using the xresources st patch, for example, we're using the [siduck's st build](https://github.com/siduck/st) that really works nice with this! 
 
