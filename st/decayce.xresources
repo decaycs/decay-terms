@@ -1,0 +1,49 @@
+Xft.antialias:	1
+Xft.hinting:	1
+Xft.autohint:	0
+Xft.hintstyle:	hintslight
+Xft.rgba:	rgb
+Xft.lcdfilter:	lcddefault
+
+st.font:         Maple Mono SC NF:style:medium:pixelsize=15
+
+! window padding
+st.borderpx: 20
+
+!- 0.1 to 0.9 = transparency
+st.alpha: 1.0
+
+*background: #181f21
+*foreground: #dadada
+
+! Black + DarkGrey
+*color0:  #1c1e27
+*color8:  #151720
+
+! DarkRed + Red
+*color1:  #e26c7c
+*color9:  #dd6777
+
+! DarkGreen + Green
+*color2:  #95d3af
+*color10: #90ceaa
+
+! DarkYellow + Yellow
+*color3:  #f1d8a5
+*color11: #ecd3a0
+
+! DarkBlue + Blue
+*color4:  #8baff1
+*color12: #86aaec
+
+! DarkMagenta + Magenta
+*color5:  #c79bf0
+*color13: #c296eb
+
+! DarkCyan + Cyan
+*color6:  #98d3ee
+*color14: #93cee9
+
+! LightGrey + White
+*color7:  #cbced3
+*color15: #d0d3d8

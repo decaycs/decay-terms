@@ -5,16 +5,16 @@ Xft.hintstyle:	hintslight
 Xft.rgba:	rgb
 Xft.lcdfilter:	lcddefault
 
-st.font:         Iosevka Extended:style:medium:pixelsize=16
+st.font:         JetBrainsMono Nerd Font:style:regular:pixelsize=15
 
 ! window padding
-st.borderpx: 20
+st.borderpx: 15
 
 !- 0.1 to 0.9 = transparency
 st.alpha: 1.0
 
-*background: #171a1f
-*foreground: #b6beca
+*background: #101419
+! *foreground: #b6beca
 
 ! Black + DarkGrey
 *color0:  #1c252c
