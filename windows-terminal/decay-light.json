@@ -1,0 +1,23 @@
+{
+    "background": "#DEE1E6",
+    "black": "#989BA0",
+    "blue": "#5287CD",
+    "brightBlack": "#C5C8CD",
+    "brightBlue": "#4D82C8",
+    "brightCyan": "#519BC6",
+    "brightGreen": "#69B373",
+    "brightPurple": "#A367CB",
+    "brightRed": "#BD3C42",
+    "brightWhite": "#101419",
+    "brightYellow": "#CEAC67",
+    "cursorColor": "#101419",
+    "cyan": "#56A0CB",
+    "foreground": "#101419",
+    "green": "#6EB878",
+    "name": "Light-Decay",
+    "purple": "#A86CD0",
+    "red": "#C24147",
+    "selectionBackground": "#D4D7DC",
+    "white": "#1F2328",
+    "yellow": "#D3B16C"
+}

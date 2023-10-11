@@ -1,0 +1,23 @@
+{
+    "background": "#171A1F",
+    "black": "#1C252C",
+    "blue": "#70A5EB",
+    "brightBlack": "#384148",
+    "brightBlue": "#8CC1FF",
+    "brightCyan": "#90DAFF",
+    "brightGreen": "#94F7C5",
+    "brightPurple": "#E2A6FF",
+    "brightRed": "#FC7B81",
+    "brightWhite": "#FAFDFF",
+    "brightYellow": "#FFEBA6",
+    "cursorColor": "#F5F5F5",
+    "cyan": "#74BEE9",
+    "foreground": "#B6BECA",
+    "green": "#78DBA9",
+    "name": "Decay",
+    "purple": "#C68AEE",
+    "red": "#E05F65",
+    "selectionBackground": "#22262E",
+    "white": "#DEE1E6",
+    "yellow": "#F1CF8A"
+}
