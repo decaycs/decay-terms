@@ -19,7 +19,6 @@ The contrast between background and primary color helps avoiding any eye fatigue
 | tym | [YES](https://github.com/decaycs/decay-terms/tree/main/tym) |
 | WezTerm | [YES](https://github.com/decaycs/decay-terms/tree/main/wezterm) |
 | Xresources | [YES](https://github.com/decaycs/decay-terms/tree/main/xresources) |
-| Tabby | [YES](https://github.com/decaycs/decay-terms/tree/main/tabby) |
 
 # :heavy_exclamation_mark: Setup
 
@@ -193,15 +192,3 @@ xrdb merge ~/.Xresources
 > See the folder `xresources` to get more versions of decay like `decayce`, `dark-decay` or `light-decay`.
 
 > Is recommended to put this in your autostart, but not in all cases
-
-## [Tabby](https://tabby.sh)
-Paste the contents of `tabby/config.yaml` into your `~/.config/tabby/config.yaml`
-
-Open the settings => Navigate to Colour scheme and you should hopefully see Decay (and Decayce) at the top.
-
-> For Light Decay, use light mode with the regular Decay theme
-
-###### Showcase
-![decay-tabby](./assets/decay-tabby.png)
-
-> Happy ricing :)
