@@ -121,6 +121,8 @@ Open the settings => Navigate to Colour scheme and you should hopefully see Deca
 ##### Showcase
 ![decay-tabby](./assets/decay-tabby.png)
 
+>Happy ricing :)
+
 ## [Suckless - st](https://st.suckless.org/) -
 Getting **Decay Theme** for *st* terminal can be a little bit tricky :|
 
