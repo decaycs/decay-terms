@@ -19,6 +19,7 @@ The contrast between background and primary color helps avoiding any eye fatigue
 | tym | [YES](https://github.com/decaycs/decay-terms/tree/main/tym) |
 | WezTerm | [YES](https://github.com/decaycs/decay-terms/tree/main/wezterm) |
 | Xresources | [YES](https://github.com/decaycs/decay-terms/tree/main/xresources) |
+| Tabby      | [YES](https://github.com/decaycs/decay-terms/tree/main/tabby) |
 
 # :heavy_exclamation_mark: Setup
 
@@ -111,6 +112,14 @@ To make `Decay theme` default, check out [EliverLara Terminator themes](https://
 ![decay-terminator](./assets/decay-terminator.png)
 
 >Happy ricing :)
+
+## [Tabby](https://tabby.sh/)
+iPaste the contents of the theme you choosed into your `~/.config/tabby/config.yaml`
+
+Open the settings => Navigate to Colour scheme and you should hopefully see Decay (and Decayce) at the top.
+
+##### Showcase
+![decay-tabby](./assets/decay-tabby.png)
 
 ## [Suckless - st](https://st.suckless.org/) -
 Getting **Decay Theme** for *st* terminal can be a little bit tricky :|

@@ -1,0 +1,22 @@
+    - name: Decayce
+      foreground: '#a5b6cf'
+      background: '#0d0f18'
+      cursor: '#a5b6cf'
+      colors:
+        - '#1c1e27'
+        - '#dd6777'
+        - '#90ceaa'
+        - '#ecd3a0'
+        - '#86aaec'
+        - '#c296eb'
+        - '#93cee9'
+        - '#d0d3d8'
+        - '#384148'
+        - '#e26c7c'
+        - '#95d3af'
+        - '#f1d8a5'
+        - '#86aaec'
+        - '#c79bf0'
+        - '#98d3ee'
+        - '#f7f7f7'
+      cursorAccent: undefined
