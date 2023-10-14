@@ -114,7 +114,7 @@ To make `Decay theme` default, check out [EliverLara Terminator themes](https://
 >Happy ricing :)
 
 ## [Tabby](https://tabby.sh/)
-iPaste the contents of the theme you choosed into your `~/.config/tabby/config.yaml`
+Paste the contents of the theme you choosed into your `~/.config/tabby/config.yaml`
 
 Open the settings => Navigate to Colour scheme and you should hopefully see Decay (and Decayce) at the top.
 
