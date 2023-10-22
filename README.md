@@ -9,17 +9,18 @@ The contrast between background and primary color helps avoiding any eye fatigue
 
 ## Current Ports :airplane:
 
-| Terminal | Ported |
-| ----------- | ----------- |
-| Alacritty | [YES](https://github.com/decaycs/decay-terms/tree/main/alacritty) |
-| Kitty | [YES](https://github.com/decaycs/decay-terms/tree/main/kitty) |
-| Tilix | [YES](https://github.com/decaycs/decay-terms/tree/main/tilix) |
-| Terminator | [YES](https://github.com/decaycs/decay-terms/tree/main/terminator) |
-| st - Suckless | [YES](https://github.com/decaycs/decay-terms/tree/main/st) |
-| tym | [YES](https://github.com/decaycs/decay-terms/tree/main/tym) |
-| WezTerm | [YES](https://github.com/decaycs/decay-terms/tree/main/wezterm) |
-| Xresources | [YES](https://github.com/decaycs/decay-terms/tree/main/xresources) |
-| Tabby      | [YES](https://github.com/decaycs/decay-terms/tree/main/tabby) |
+| Terminal      | Ported                                                             |
+| -----------   | -----------                                                        |
+| alacritty     | [yes](https://github.com/decaycs/decay-terms/tree/main/alacritty)  |
+| foot          | [yes](https://github.com/decaycs/decay-terms/tree/main/foot)       |
+| Kitty         | [YES](https://github.com/decaycs/decay-terms/tree/main/kitty)      |
+| Tilix         | [YES](https://github.com/decaycs/decay-terms/tree/main/tilix)      |
+| Terminator    | [YES](https://github.com/decaycs/decay-terms/tree/main/terminator) |
+| st - Suckless | [YES](https://github.com/decaycs/decay-terms/tree/main/st)         |
+| tym           | [YES](https://github.com/decaycs/decay-terms/tree/main/tym)        |
+| WezTerm       | [YES](https://github.com/decaycs/decay-terms/tree/main/wezterm)    |
+| Xresources    | [YES](https://github.com/decaycs/decay-terms/tree/main/xresources) |
+| Tabby         | [YES](https://github.com/decaycs/decay-terms/tree/main/tabby)      |
 
 # :heavy_exclamation_mark: Setup
 
@@ -55,6 +56,36 @@ to your `alacritty.yml`
 ![decay-alacritty](./assets/decay-alacritty.png)
 
 >Happy ricing :)
+
+### [Foot](https://codeberg.org/dnkl/foot) -
+Head over to `$HOME/.config/foot/foot.ini` and  replace the lines starting with: `[colors]` with contents of chosen `decay.ini` If you run foot as server you need to restart `foot` or launch it as **foot** instead of **footclient**
+```
+[colors]
+foreground=b6beca
+background=171a1f
+regular0=1c252c   # Black
+regular1=e05f65   # red
+regular2=78dba9   # green
+regular3=f1cf8a   # yellow
+regular4=70a5eb   # blue
+regular5=c678dd   # pink
+regular6=74bee9   # cyan
+regular7=dee1e6   # White
+bright0=384148    # Black
+bright1=fc7b81    # red
+bright2=94f7c5    # green
+bright3=ffeba6    # yellow
+bright4=8cc1ff    # blue
+bright5=e2a6ff    # magenta
+bright6=90daff    # cyan
+bright7=fafdff    # white
+```
+
+###### Showcase
+![decay-foot](./assets/decay-foot.png)
+
+>Happy ricing :)
+
 
 ## [Kitty](https://github.com/kovidgoyal/kitty) -
 Head over to `kitty/` and copy `decay.ini` to your kitty config path:
