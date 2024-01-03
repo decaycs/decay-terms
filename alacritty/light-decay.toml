@@ -1,0 +1,30 @@
+# Eye Friendly Colors
+# Created by https://github.com/decaycs
+
+[colors.bright]
+black = "#989ba0"
+blue = "#5287cd"
+cyan = "#56a0cb"
+green = "#6eb878"
+magenta = "#a86cd0"
+red = "#c24147"
+white = "#1f2328"
+yellow = "#d3b16c"
+
+[colors.cursor]
+cursor = "#101419"
+text = "CellForeground"
+
+[colors.normal]
+black = "#c5c8cd"
+blue = "#4d82c8"
+cyan = "#519bc6"
+green = "#69b373"
+magenta = "#a367cb"
+red = "#bd3c42"
+white = "#101419"
+yellow = "#ceac67"
+
+[colors.primary]
+background = "#dee1e6"
+foreground = "#101419"
