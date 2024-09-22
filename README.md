@@ -13,6 +13,7 @@ The contrast between background and primary color helps avoiding any eye fatigue
 | ----------- | ----------- |
 | Alacritty | [YES](https://github.com/decaycs/decay-terms/tree/main/alacritty) |
 | Kitty | [YES](https://github.com/decaycs/decay-terms/tree/main/kitty) |
+| Konsole | [YES](https://github.com/decaycs/decay-terms/tree/main/konsole) |
 | Tilix | [YES](https://github.com/decaycs/decay-terms/tree/main/tilix) |
 | Terminator | [YES](https://github.com/decaycs/decay-terms/tree/main/terminator) |
 | st - Suckless | [YES](https://github.com/decaycs/decay-terms/tree/main/st) |
@@ -68,10 +69,25 @@ cp decay.ini ~/.config/kitty/
 
 Enable `Decay theme` adding `include decay.ini` to your `kitty.conf`
 
+>Happy ricing :)
+
 ###### Showcase
 ![decay-kitty](./assets/decay-kitty.png)
 
+## [Konsole](https://konsole.kde.org) -
+
+
+Move all the files from the konsole folder to `~/.local/share/konsole`, then select the desired theme in the profile settings
+```bash
+mkdir -pv ~/.local/share/konsole
+cp -v konsole/* ~/.local/share/konsole
+```
+
 >Happy ricing :)
+
+###### Showcase
+![decay-konsole](./assets/decay-konsole.png)
+
 
 ## [Tilix](https://gnunn1.github.io/tilix-web/) -
 Head over to `tilix/` and copy `decay.json` to your tilix schemes directory:
